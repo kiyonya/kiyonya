@@ -1,7 +1,8 @@
 ### About Me
 **I’m Kiyuu**,An amateur developer.</br>
 I upload some idea here!
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=kiyonya&theme=react&locale=cn&show_icons=true&title_color=ffffff&&hide_border=true">](https://github.com/kiyonya)
+[<img align="right" width="50%" vspace="10" src="https://github-readme-activity-graph.vercel.app/graph?username=kiyonya&theme=tokyo-night&hide_border=true&radius=12">](https://github.com/kiyonya)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=kiyonya&theme=react&locale=cn&show_icons=true&title_color=ffffff&hide_border=true">](https://github.com/kiyonya)
 </br>
 ### I Use
 ![Git](https://img.shields.io/badge/-Git-silver?style=for-the-badge&logo=git)
