@@ -9,7 +9,7 @@ I upload some idea here!
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=vscode)
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij-orange?style=for-the-badge&logo=Intellij%20IDEA)
 ### Language
-![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)</br>
 ![CSS](https://img.shields.io/badge/css-purple?style=for-the-badge&logo=css&logoColor=white)
