@@ -1,6 +1,8 @@
 ### About Me
 **I’m Kiyuu**,An amateur developer.</br>
 I upload some idea here!
+[<img align="right" width="50%" vspace="10" src="https://github-readme-activity-graph.vercel.app/graph?username=kiyonya&theme=tokyo-night&radius=12">](https://github.com/kiyonya)
+[<img align="right" width="50%" vspace="10" src="https://github-readme-stats.shion.dev/api?username=kiyonya&radius=12&theme=dark">](https://github.com/kiyonya)
 </br>
 ### Now Making
 ![Git](https://img.shields.io/badge/-Marisa%20Agent%20Framework-black?style=for-the-badge)
@@ -24,4 +26,4 @@ I upload some idea here!
 ![Rust](https://img.shields.io/badge/rust-red?style=for-the-badge&logo=rust&logoColor=white)
 </br>
 ### Contribution
-[<img width="50%" vspace="10" src="https://github-readme-activity-graph.vercel.app/graph?username=kiyonya&theme=tokyo-night&hide_border=true&radius=12">](https://github.com/kiyonya)
+
